@@ -10,7 +10,7 @@ title: Modified-Protein-Balls
 - 2 scoops whey isolate or sunflower seed protein
 - 1–2 tbsp coconut flour
 - 1/3 cup Lily’s chocolate chips
-- 2–3 tbsp Swever
+- 2–3 tbsp Swerve
 - Dash of vanilla extract, salt, cinnamon
 - Optional: 2 tbsp unsweetened coconut flakes
 

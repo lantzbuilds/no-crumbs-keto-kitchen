@@ -10,7 +10,7 @@ title: Collagen-Protein-Bites
 - 2–3 tbsp coconut flour
 - 2 tbsp coconut oil or cocoa butter, melted
 - 1–2 tbsp unsweetened cocoa powder
-- Swever or other keto sweetener, to taste
+- Swerve or other keto sweetener, to taste
 - Dash of vanilla extract and sea salt
 
 ## Instructions

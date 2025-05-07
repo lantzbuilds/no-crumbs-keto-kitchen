@@ -9,7 +9,7 @@ title: Macadamia-Protein-Balls
 - 1/2 cup macadamia nut butter
 - 2 scoops whey isolate or sunflower seed protein
 - 2 tbsp unsweetened coconut flakes
-- 1–2 tbsp Swever
+- 1–2 tbsp Swerve
 - Dash of sea salt and vanilla
 
 ## Instructions

@@ -8,7 +8,7 @@ title: Greek-Yogurt-Protein-Mousse
 ## Ingredients
 - 3/4 cup full-fat Greek yogurt
 - 1 scoop whey isolate or egg white protein
-- 1–2 tbsp Swever or other keto sweetener
+- 1–2 tbsp Swerve or other keto sweetener
 - Optional: 1 tbsp cocoa, cinnamon, or berries
 
 ## Instructions

@@ -8,7 +8,7 @@ title: Cottage-Cheese-Pudding
 ## Ingredients
 - 1/2 cup 4% cottage cheese
 - 1 scoop whey isolate
-- 1–2 tbsp Swever
+- 1–2 tbsp Swerve
 - Optional: cocoa powder, cinnamon, berries
 
 ## Instructions
