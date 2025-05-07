@@ -2,5 +2,5 @@ title: The No-Crumbs Keto Kitchen
 description: Low Omega-6, Keto-Friendly Snack Recipes
 baseurl: "/no-crumbs-keto-kitchen"
 url: "https://lantzbuilds.github.io/no-crumbs-keto-kitchen"
-theme: minima
+theme: modernist
 markdown: kramdown
