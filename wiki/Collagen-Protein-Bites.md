@@ -1,8 +1,3 @@
----
-layout: default
-title: Collagen-Protein-Bites
----
-
 # Collagen Protein Bites (Nut-Free)
 
 ## Ingredients
