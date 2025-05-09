@@ -17,5 +17,7 @@ instructions:
   - Add sweetener and optional flavors.
   - Serve chilled or freeze for mousse texture.
 permalink: /recipes/greek-yogurt-protein-mousse.html
+notes:
+  - Low Omega-6, high protein
 ---
 

@@ -12,5 +12,9 @@ ingredients:
 instructions:
   - Open and enjoy.
 permalink: /recipes/protein-chips-review.html
+notes:
+  - Nearly zero Omega-6
+  - High protein
+  - Great chip texture
 ---
 

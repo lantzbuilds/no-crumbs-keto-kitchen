@@ -12,5 +12,9 @@ ingredients:
 instructions:
   - Eat as-is.
 permalink: /recipes/clean-jerky-snack.html
+notes:
+  - High protein, low Omega-6
+  - supports protein goals
+  - Shelf-stable
 ---
 

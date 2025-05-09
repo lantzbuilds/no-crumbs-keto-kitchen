@@ -22,5 +22,8 @@ instructions:
   - Roll into balls.
   - Chill for at least 30 minutes.
 permalink: /recipes/collagen-protein-bites.html
+notes:
+  - High protein, very low Omega-6
+  - Store in fridge or freezer
 ---
 
