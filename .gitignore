@@ -1,0 +1,28 @@
+# Jekyll build artifacts
+_site/
+.jekyll-cache/
+.sass-cache/
+
+# Local build and deploy logs
+*.log
+
+# Ruby and Bundler files
+.bundle/
+vendor/
+Gemfile.lock
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Byebug temp files (if used in Ruby dev)
+.byebug_history
+
+# Node / JS tooling (if used for deployment or asset bundling)
+node_modules/
+
+# Custom local dev config
+_config.dev.yml
