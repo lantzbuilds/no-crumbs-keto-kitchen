@@ -18,7 +18,7 @@ for file in "$WIKI_DIR"/*.md; do
   new_filename="$POSTS_DIR/${DATE}-${slug}.md"
 
   echo "---" > "$new_filename"
-  echo "layout: default" >> "$new_filename"
+  echo "layout: page" >> "$new_filename"
   echo "title: "$title"" >> "$new_filename"
   echo "---" >> "$new_filename"
   echo "" >> "$new_filename"

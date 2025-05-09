@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
+<h1>{{ page.title }}</h1>
+
+<p><strong>{{ page.description }}</strong></p>
+
+<h2>Ingredients</h2>
+<ul>
+  {% for item in page.ingredients %}
+  <li>{{ item }}</li>
+  {% endfor %}
+</ul>
+
+<h2>Instructions</h2>
+<ol>
+  {% for step in page.instructions %}
+  <li>{{ step }}</li>
+  {% endfor %}
+</ol>
+
+<h2>Nutrition Info</h2>
+<ul>
+  <li><strong>Servings:</strong> {{ page.recipe_yield }}</li>
+</ul>
+
+<div class="nav-home">
+  <a href="{{ '/' | relative_url }}">← Home</a>
+</div>
+<!-- schema.org metadata -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "{{ page.title }}",
+  "author": {
+    "@type": "Person",
+    "name": "Lantz Warrick"
+  },
+  "description": "{{ page.description }}",
+  "recipeYield": "{{ page.recipe_yield }}",
+  "prepTime": "{{ page.prep_time }}",
+  "totalTime": "{{ page.total_time }}",
+  "recipeCategory": "{{ page.recipe_category }}",
+  "recipeCuisine": "{{ page.recipe_cuisine }}",
+  "recipeIngredient": [{% for item in page.ingredients %}"{{ item }}"{% if forloop.last == false %}, {% endif %}{% endfor %}],
+  "recipeInstructions": [{% for step in page.instructions %}"{{ step }}"{% if forloop.last == false %}, {% endif %}{% endfor %}]
+}
+</script>
