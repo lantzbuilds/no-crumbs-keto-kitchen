@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
 <h1>{{ page.title }}</h1>
 
 <p><strong>{{ page.description }}</strong></p>
@@ -9,14 +11,14 @@ layout: default
 <h2>Ingredients</h2>
 <ul>
   {% for item in page.ingredients %}
-    <li>{{ item }}</li>
+  <li>{{ item }}</li>
   {% endfor %}
 </ul>
 
 <h2>Instructions</h2>
 <ol>
   {% for step in page.instructions %}
-    <li>{{ step }}</li>
+  <li>{{ step }}</li>
   {% endfor %}
 </ol>
 
@@ -25,6 +27,9 @@ layout: default
   <li><strong>Servings:</strong> {{ page.recipe_yield }}</li>
 </ul>
 
+<div class="nav-home">
+  <a href="{{ '/' | relative_url }}">← Home</a>
+</div>
 <!-- schema.org metadata -->
 <script type="application/ld+json">
 {

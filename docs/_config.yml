@@ -4,3 +4,10 @@ baseurl: "/no-crumbs-keto-kitchen"
 url: "https://lantzbuilds.github.io/no-crumbs-keto-kitchen"
 theme: jekyll-theme-leap-day
 markdown: kramdown
+include:
+  - _includes/head_custom.html
+defaults:
+  - scope:
+      path: ""
+    values:
+      head: head_custom.html
