@@ -11,7 +11,7 @@ ingredients:
   - 1/2 cup 4% cottage cheese
   - 1 scoop whey isolate
   - Swerve (or MonkFruit or erythritol), to taste
-  - Optional: cocoa powder, cinnamon, berries
+  - "Optional: cocoa powder, cinnamon, berries"
 instructions:
   - Blend all ingredients until smooth.
   - Chill before serving.

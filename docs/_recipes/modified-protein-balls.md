@@ -14,7 +14,7 @@ ingredients:
   - 1/3 cup Lily’s chocolate chips
   - Swerve (or MonkFruit or erythritol), to taste
   - Dash of vanilla extract, salt, cinnamon
-  - Optional: 2 tbsp unsweetened coconut flakes
+  - "Optional: 2 tbsp unsweetened coconut flakes"
 instructions:
   - Mix nut butter and protein powder.
   - Add coconut flour gradually.

@@ -11,7 +11,7 @@ ingredients:
   - 3/4 cup full-fat Greek yogurt
   - 1 scoop whey isolate or egg white protein
   - Swerve (or MonkFruit or erythritol), to taste
-  - Optional: 1 tbsp cocoa powder or berries
+  - "Optional: 1 tbsp cocoa powder or berries"
 instructions:
   - Mix yogurt and protein powder until smooth.
   - Add sweetener and optional flavors.
