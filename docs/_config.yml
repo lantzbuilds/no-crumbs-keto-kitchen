@@ -2,7 +2,7 @@ title: The No-Crumbs Keto Kitchen
 description: Keto-Friendly Recipes, Low Omega-6
 baseurl: "/no-crumbs-keto-kitchen"
 url: "https://lantzbuilds.github.io/no-crumbs-keto-kitchen"
-theme: jekyll-theme-leap-day
+theme: null
 markdown: kramdown
 
 include:
@@ -18,3 +18,8 @@ collections:
   recipes:
     output: true
     permalink: /recipes/:name.html
+
+sass:
+  load_paths:
+    - _sass
+  sass_dir: assets/css
