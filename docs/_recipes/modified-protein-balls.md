@@ -21,5 +21,8 @@ instructions:
   - Stir in remaining ingredients.
   - Roll into balls and chill.
 permalink: /recipes/modified-protein-balls.html
+notes:
+  - Lower Omega-6 than peanut-based recipes
+  - Sweet, high-protein, keto-friendly
 ---
 

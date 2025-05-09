@@ -19,5 +19,7 @@ instructions:
   - Roll into 1-inch balls.
   - Refrigerate before serving.
 permalink: /recipes/macadamia-protein-balls.html
+notes:
+  - Ultra-low Omega-6 alternative to peanut butter
 ---
 

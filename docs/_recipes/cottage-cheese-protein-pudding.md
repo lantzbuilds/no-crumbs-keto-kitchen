@@ -16,5 +16,7 @@ instructions:
   - Blend all ingredients until smooth.
   - Chill before serving.
 permalink: /recipes/cottage-cheese-protein-pudding.html
+notes:
+  - High protein, low Omega-6
 ---
 
