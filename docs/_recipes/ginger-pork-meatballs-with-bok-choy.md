@@ -2,27 +2,27 @@
 layout: recipe
 title: "Ginger Pork Meatballs with Bok Choy"
 date: 2025-05-30
-recipe_category: dinner
-categories: [meatballs, pork, asian-inspired, dinner]
+description: "These ginger-spiced pork meatballs are paired with sautéed bok choy and punchy marinated radishes. We’ve omitted the rice to keep this dish keto-friendly and recommend sugar-free barbecue sauce and pork rinds in place of breadcrumbs for a fully low-carb meal."
+recipe_category: "Dinner"
+recipe_cuisine: "Asian-Inspired"
 image: /assets/images/ginger-meatballs.jpg
-servings: 2
-prep_time: 10 min
-cook_time: 20 min
-total_time: 30 min
+recipe_yield: "2 servings"
+prep_time: "PT10M"
+total_time: "PT30M"
 low_omega6: true
 keto_friendly: true
 
 ingredients:
-  - "14 oz ground pork"
-  - "3 oz radishes"
-  - "10 oz baby bok choy"
-  - "1-inch piece fresh ginger"
-  - "1 Tbsp rice vinegar"
-  - "¼ cup sugar-free barbecue sauce"
-  - "2 Tbsp soy glaze (or coconut aminos as keto alt)"
-  - "¼ cup panko breadcrumbs (optional, or use crushed pork rinds for keto version)"
-  - "1 Tbsp olive oil"
-  - "2 Tbsp water"
+  - 14 oz ground pork
+  - 3 oz radishes
+  - 10 oz baby bok choy
+  - 1-inch piece fresh ginger
+  - 1 Tbsp rice vinegar
+  - ¼ cup sugar-free barbecue sauce
+  - 2 Tbsp soy glaze (or coconut aminos as keto alt)
+  - ¼ cup panko breadcrumbs (optional, or use crushed pork rinds for keto version)
+  - 1 Tbsp olive oil
+  - 2 Tbsp water
 
 instructions:
   - Wash and dry the fresh produce. Thinly slice the radishes and place in a bowl with the rice vinegar. Season with salt and pepper and let marinate for at least 10 minutes, stirring occasionally.
@@ -35,16 +35,9 @@ instructions:
   - Turn off the heat and stir in bok choy leaves until wilted and combined.
   - Plate with marinated radishes on the side, including any vinegar from the bowl. Enjoy!
 
-schema:
-  type: Recipe
-  recipeCategory: "Dinner"
-  recipeCuisine: "Asian-Inspired"
-  recipeYield: "2 servings"
-  nutrition:
-    calories:
-    fatContent:
-    proteinContent:
-    carbohydrateContent:
+permalink: /recipes/ginger-pork-meatballs-with-bok-choy.html
+notes:
+  - Low Omega-6, high protein
+  - For a keto-friendly version, use sugar-free barbecue sauce and crushed pork rinds instead of breadcrumbs.
 ---
 
-These ginger-spiced pork meatballs are paired with sautéed bok choy and punchy marinated radishes. We’ve omitted the rice to keep this dish keto-friendly and recommend sugar-free barbecue sauce and pork rinds in place of breadcrumbs for a fully low-carb meal.
