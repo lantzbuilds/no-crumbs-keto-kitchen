@@ -2,6 +2,7 @@
 layout: recipe
 title: "Ginger Pork Meatballs with Bok Choy"
 date: 2025-05-30
+recipe_category: dinner
 categories: [meatballs, pork, asian-inspired, dinner]
 image: /assets/images/ginger-meatballs.jpg
 servings: 2
